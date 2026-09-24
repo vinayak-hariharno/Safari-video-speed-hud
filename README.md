@@ -10,7 +10,7 @@ A lightweight, zero-extension macOS utility to control video playback speed acro
 
 <br/>
 
-<img src="assets/demo.png" alt="Speed HUD Preview" width="700"/>
+<img src="assets/Gemini_Generated_Image_4mrgl64mrgl64mrg.png" alt="Speed HUD Preview" width="700"/>
 
 </div>
 
@@ -46,4 +46,4 @@ Safari requires permission to execute JavaScript sent via external Apple Events:
 ### Option 1: Import Pre-built Shortcuts (Quickest)
 1. Clone this repository or download the ZIP:
    ```bash
-   git clone [https://github.com/your-username/safari-video-speed-hud.git](https://github.com/your-username/safari-video-speed-hud.git)
+   git clone [https://github.com/vinayak-hariharno/safari-video-speed-hud.git](https://github.com/vinayak-hariharno/safari-video-speed-hud.git)
